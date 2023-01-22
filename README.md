@@ -32,7 +32,7 @@ Jupyter notebookのプレゼンテーションはローカルにダウンロー�
 ## 1/21：【NGK2023S】 ノードエディタ形式の画像処理ツール「Image-Processing-Node-Editor」
 <img src="https://user-images.githubusercontent.com/37477845/213899233-59097c8f-1f7e-45a5-bfe0-ed07c497f391.png" width="640px" height="360px">
 
-パス：-
+パス：- ※PDF資料のみ
 
 資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/ngk2023s-image-processing-node-editor) / [Youtube](https://youtu.be/Ohi3sqEnP8g)
 
