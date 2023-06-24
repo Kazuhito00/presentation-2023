@@ -29,6 +29,13 @@ python presentation.py
 Jupyter notebookのプレゼンテーションはローカルにダウンロードしてJupyterで開くか、Binderのリンクからご確認ください。
 
 # Contents
+## 6/24：【MLN】Visual Blocks for ML
+<img src="https://github.com/Kazuhito00/presentation-2023/assets/37477845/f9321bb2-9879-4436-a6b7-db4becc7b86c" width="640px" height="360px">
+
+パス：- ※PDF資料のみ
+
+資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/mln-visual-blocks-for-ml)
+
 ## 1/21：【NGK2023S】 ノードエディタ形式の画像処理ツール「Image-Processing-Node-Editor」
 <img src="https://user-images.githubusercontent.com/37477845/213899233-59097c8f-1f7e-45a5-bfe0-ed07c497f391.png" width="640px" height="360px">
 
