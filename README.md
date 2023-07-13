@@ -29,6 +29,13 @@ python presentation.py
 Jupyter notebookのプレゼンテーションはローカルにダウンロードしてJupyterで開くか、Binderのリンクからご確認ください。
 
 # Contents
+## 7/8：【Python東海#43】Image-Processing-Node-Editor
+<img src="https://github.com/Kazuhito00/presentation-2023/assets/37477845/f088eae8-1979-46f7-8917-b9f0f8ce2957" width="640px" height="360px">
+
+パス：- ※PDF資料のみ
+
+資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/pythondong-hai-number-43-image-processing-node-editor) / [Youtube](https://www.youtube.com/watch?v=WxBc3fEtyog)
+
 ## 6/24：【MLN】Visual Blocks for ML
 <img src="https://github.com/Kazuhito00/presentation-2023/assets/37477845/f9321bb2-9879-4436-a6b7-db4becc7b86c" width="640px" height="360px">
 
