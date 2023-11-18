@@ -29,6 +29,13 @@ python presentation.py
 Jupyter notebookのプレゼンテーションはローカルにダウンロードしてJupyterで開くか、Binderのリンクからご確認ください。
 
 # Contents
+## 11/18：【Python東海#44】Pydroid3で画像処理
+<img src="https://github.com/Kazuhito00/presentation-2023/assets/37477845/3a31f6bc-9879-4aad-8aac-96bca78be4df" width="640px" height="360px">
+
+パス：- ※PDF資料のみ
+
+資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/pythondong-hai-number-44-pydroid3dehua-xiang-chu-li) / [Youtube](https://www.youtube.com/watch?v=Od0POpMRpQk)
+
 ## 8/13：【Unagi.py 56枚目】動物園（PINTO_model_zoo）に遊びに行こう
 <img src="https://github.com/Kazuhito00/presentation-2023/assets/37477845/15a142b7-df9d-46f3-8505-e78254698cec" width="640px" height="360px">
 
